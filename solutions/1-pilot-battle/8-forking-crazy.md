@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/8)
 
-[result]: ./images/8-forking-crazy.png
+![result](./images/8-forking-crazy.png)
 
 ```html
 <div class="wrapper">

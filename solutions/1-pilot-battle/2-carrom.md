@@ -4,14 +4,14 @@
 
 [Link to the problem](https://cssbattle.dev/play/2)
 
-[result]: ./images/2-carrom.png
+![result](./images/2-carrom.png)
 
 ```html
 <div class="wrapper">
-	<div class="box top-left"></div>
-	<div class="box top-right"></div>
-	<div class="box bottom-left"></div>
-	<div class="box bottom-right"></div>  
+  <div class="box top-left"></div>
+  <div class="box top-right"></div>
+  <div class="box bottom-left"></div>
+  <div class="box bottom-right"></div>  
 </div>
 <style>
   body {

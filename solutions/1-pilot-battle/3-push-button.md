@@ -4,7 +4,7 @@
 
 [Link to the problem](https://cssbattle.dev/play/3)
 
-[result]: ./images/3-push-button.png
+![result](./images/3-push-button.png)
 
 ```html
 <div class="wrapper">
