@@ -14,4 +14,6 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#7 - Leafy Trail](./solutions/1-pilot-battle/7-leafy-trail.md)
 - [#8 - Forking Crazy](./solutions/1-pilot-battle/8-forking-crazy.md)
 - [#9 - Tesseract](./solutions/1-pilot-battle/9-tesseract.md)
-- Coming soon...
+- [#10 - Cloaked Spirits](./solutions/1-pilot-battle/10-cloaked-spirits.md)
+- [#11 - Eye of Sauron](./solutions/1-pilot-battle/11-eye-of-sauron.md)
+- [#12 - Wiggly Moustache](./solutions/1-pilot-battle/12-wiggly-moustache.md)
