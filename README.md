@@ -30,4 +30,13 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#19 - Cube](./solutions/3-cursor/19-cube.md)
 - [#20 - Ticket](./solutions/3-cursor/20-ticket.md)
 
+## Battle #4 - Display
+- [#21 - SitePoint Logo](./solutions/4-display/21-sitepoint-logo.md)
+- [#22 - Cloud](./solutions/4-display/22-cloud.md)
+- [#23 - Boxception](./solutions/4-display/23-boxception.md)
+- [#24 - Switches](./solutions/4-display/24-switches.md)
+- [#25 - Blossom](./solutions/4-display/25-blossom.md)
+- [#26 - Smiley](./solutions/4-display/26-smiley.md)
+- Coming soon...
+
 Wait for other solutions...
