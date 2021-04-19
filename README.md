@@ -17,3 +17,13 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#10 - Cloaked Spirits](./solutions/1-pilot-battle/10-cloaked-spirits.md)
 - [#11 - Eye of Sauron](./solutions/1-pilot-battle/11-eye-of-sauron.md)
 - [#12 - Wiggly Moustache](./solutions/1-pilot-battle/12-wiggly-moustache.md)
+
+## Battle #2 - Visibility
+- [#13 - Totally Triangle](./solutions/2-visibility/13-totally-triangle.md)
+- [#14 - Web Maker Logo](./solutions/2-visibility/14-web-maker-logo.md)
+- [#15 - Overlap](./solutions/2-visibility/15-overlap.md)
+- [#16 - Eye of The Tiger](./solutions/2-visibility/16-eye-of-the-tiger.md)
+- [#17 - Fidget Spinner](./solutions/2-visibility/17-fidget-spinner.md)
+- [#18 - Matrix](./solutions/2-visibility/18-matrix.md)
+
+Wait for other solutions...
