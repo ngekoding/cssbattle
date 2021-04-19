@@ -26,4 +26,8 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#17 - Fidget Spinner](./solutions/2-visibility/17-fidget-spinner.md)
 - [#18 - Matrix](./solutions/2-visibility/18-matrix.md)
 
+## Battle #3 - Cursor
+- [#19 - Cube](./solutions/3-cursor/19-cube.md)
+- [#20 - Ticket](./solutions/3-cursor/20-ticket.md)
+
 Wait for other solutions...
