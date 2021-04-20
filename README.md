@@ -37,6 +37,7 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#24 - Switches](./solutions/4-display/24-switches.md)
 - [#25 - Blossom](./solutions/4-display/25-blossom.md)
 - [#26 - Smiley](./solutions/4-display/26-smiley.md)
-- Coming soon...
+- [#27 - Lock Up](./solutions/4-display/27-lock-up.md)
+- [#28 - Cups & Balls](./solutions/4-display/28-cups-&-balls.md)
 
 Wait for other solutions...
