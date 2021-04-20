@@ -5,6 +5,9 @@ Let's design with code!
 Here is my solutions for some problems on cssbattle.dev. Maybe this is not the best solution, but it's work!
 
 ## Battle #1 - Pilot Battle
+
+![preview](./solutions/1-pilot-battle/images/preview.png)
+
 - [#1 - Simply Square](./solutions/1-pilot-battle/1-simply-square.md)
 - [#2 - Carrom](./solutions/1-pilot-battle/2-carrom.md)
 - [#3 - Push Button](./solutions/1-pilot-battle/3-push-button.md)
@@ -19,6 +22,9 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#12 - Wiggly Moustache](./solutions/1-pilot-battle/12-wiggly-moustache.md)
 
 ## Battle #2 - Visibility
+
+![preview](./solutions/2-visibility/images/preview.png)
+
 - [#13 - Totally Triangle](./solutions/2-visibility/13-totally-triangle.md)
 - [#14 - Web Maker Logo](./solutions/2-visibility/14-web-maker-logo.md)
 - [#15 - Overlap](./solutions/2-visibility/15-overlap.md)
@@ -27,10 +33,16 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#18 - Matrix](./solutions/2-visibility/18-matrix.md)
 
 ## Battle #3 - Cursor
+
+![preview](./solutions/3-cursor/images/preview.png)
+
 - [#19 - Cube](./solutions/3-cursor/19-cube.md)
 - [#20 - Ticket](./solutions/3-cursor/20-ticket.md)
 
 ## Battle #4 - Display
+
+![preview](./solutions/4-display/images/preview.png)
+
 - [#21 - SitePoint Logo](./solutions/4-display/21-sitepoint-logo.md)
 - [#22 - Cloud](./solutions/4-display/22-cloud.md)
 - [#23 - Boxception](./solutions/4-display/23-boxception.md)
