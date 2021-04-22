@@ -52,4 +52,11 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 - [#27 - Lock Up](./solutions/4-display/27-lock-up.md)
 - [#28 - Cups & Balls](./solutions/4-display/28-cups-&-balls.md)
 
+## Battle #5 - Inline
+
+![preview](./solutions/5-inline/images/preview.png)
+
+- [#21 - Suffocate](./solutions/5-inline/29-suffocate.md)
+- [#22 - Horizon](./solutions/5-inline/30-horizon.md)
+
 Wait for other solutions...
