@@ -56,7 +56,14 @@ Here is my solutions for some problems on cssbattle.dev. Maybe this is not the b
 
 ![preview](./solutions/5-inline/images/preview.png)
 
-- [#21 - Suffocate](./solutions/5-inline/29-suffocate.md)
-- [#22 - Horizon](./solutions/5-inline/30-horizon.md)
+- [#29 - Suffocate](./solutions/5-inline/29-suffocate.md)
+- [#30 - Horizon](./solutions/5-inline/30-horizon.md)
+
+## Battle #6 - Conic
+
+![preview](./solutions/6-conic/images/preview.png)
+
+- [#31 - Equals](./solutions/6-conic/31-equals.md)
+- [#32 - Band-aid](./solutions/6-conic/32-band-aid.md)
 
 Wait for other solutions...
