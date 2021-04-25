@@ -75,7 +75,7 @@ I make this solutions for better understanding and readability. So, if you want 
 ![preview](./solutions/7-backface/images/preview.png)
 
 - [#33 - Birdie](./solutions/7-backface/33-birdie.md)
-- [#34 - Christmas Tree] (Skipped)
+- #34 - Christmas Tree (Skipped)
 - [#35 - Ice Cream](./solutions/7-backface/35-ice-cream.md)
 - [#36 - Interleaved](./solutions/7-backface/36-interleaved.md)
 - [#37 - Tunnel](./solutions/7-backface/37-tunnel.md)
