@@ -70,4 +70,18 @@ I make this solutions for better understanding and readability. So, if you want 
 - [#31 - Equals](./solutions/6-conic/31-equals.md)
 - [#32 - Band-aid](./solutions/6-conic/32-band-aid.md)
 
+## Battle #7 - Backface
+
+![preview](./solutions/7-backface/images/preview.png)
+
+- [#33 - Birdie](./solutions/7-backface/33-birdie.md)
+- [#34 - Christmas Tree] (Skipped)
+- [#35 - Ice Cream](./solutions/7-backface/35-ice-cream.md)
+- [#36 - Interleaved](./solutions/7-backface/36-interleaved.md)
+- [#37 - Tunnel](./solutions/7-backface/37-tunnel.md)
+- [#38 - Not Simply Square](./solutions/7-backface/38-not-simply-square.md)
+- [#39 - Sunset](./solutions/7-backface/39-sunset.md)
+- [#40 - Letter B](./solutions/7-backface/40-letter-b.md)
+- [#41 - Fox Head](./solutions/7-backface/41-fox-head.md)
+
 Wait for other solutions...
