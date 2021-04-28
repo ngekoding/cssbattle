@@ -4,6 +4,8 @@ Let's design with code!
 
 Here is my solutions for some problems on cssbattle.dev. Maybe this is not the best solution, but it's work!
 
+Some problems may be skipped for some reason.
+
 ## Scoring
 
 I make this solutions for better understanding and readability. So, if you want to get a higher score, you need to change the class name with a minimal character.
@@ -83,5 +85,13 @@ I make this solutions for better understanding and readability. So, if you want 
 - [#39 - Sunset](./solutions/7-backface/39-sunset.md)
 - [#40 - Letter B](./solutions/7-backface/40-letter-b.md)
 - [#41 - Fox Head](./solutions/7-backface/41-fox-head.md)
+
+## Battle #8 - Transition
+
+![preview](./solutions/8-transition/images/preview.png)
+
+- #42 - Baby (Skipped)
+- [#43 - Wrench](./solutions/8-transition/43-wrench.md)
+- [#44 - Stripes](./solutions/8-transition/44-stripes.md)
 
 Wait for other solutions...
