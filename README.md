@@ -94,4 +94,11 @@ I make this solutions for better understanding and readability. So, if you want 
 - [#43 - Wrench](./solutions/8-transition/43-wrench.md)
 - [#44 - Stripes](./solutions/8-transition/44-stripes.md)
 
+## Battle #9 - Margin
+
+![preview](./solutions/9-margin/images/preview.png)
+
+- #45 - Magical Tree (Skipped)
+- [#46 - Mountains](./solutions/9-margin/46-mountains.md)
+
 Wait for other solutions...
